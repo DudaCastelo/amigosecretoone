@@ -31,7 +31,8 @@ Captura de Tela
 ![Image](https://github.com/user-attachments/assets/512ae7a2-207e-43d3-a08a-64562a84c031)
 
 
-Como Rodar o Projeto Localmente
+Como Rodar o Projeto Localmente:
+
 
 Clone este repositório em sua máquina local
 
