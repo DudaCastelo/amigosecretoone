@@ -11,12 +11,14 @@ Sortear Amigo Secreto: O sorteio é feito automaticamente, garantindo que ningu�
 Exibir Resultados: Após o sorteio, o resultado é exibido com a relação de quem tirou quem.
 
 Como Usar
+
 Adicione os nomes: Digite o nome de um amigo e clique no botão "Adicionar" para incluir na lista.
 Realize o sorteio: Após adicionar todos os amigos, clique no botão "Sortear amigo" para gerar o sorteio.
 Veja o resultado: O resultado do sorteio será exibido na tela com a relação de quem tirou quem.
 
 
 Tecnologias Utilizadas
+
 HTML: Estrutura da página.
 CSS: Estilização da interface (arquivo style.css).
 JavaScript: Funcionalidade para adicionar amigos e realizar o sorteio (arquivo app.js).
